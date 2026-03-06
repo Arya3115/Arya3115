@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arya Chougule</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-<p align="left"> <img src="![520c879b-6c53-49cd-b55f-7494b94a5301](https://github.com/user-attachments/assets/3490b7f9-6800-4df7-8245-7e96613c65f6)
-username=arya3115&label=Profile%20views&color=0e75b6&style=flat" alt="arya3115" /> </p>
+<p align="center">
+  <img src="https://github.com/arya3115.png" width="150" style="border-radius:50%" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arya3115" alt="arya3115" /></a> </p>
 
